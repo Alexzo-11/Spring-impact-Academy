@@ -59,7 +59,7 @@ function App() {
         <nav className="nav container">
           <a className="brand" href="#home" aria-label="Spring Impact Academy home">
             <img
-                src="/assets/spring-impact-logo.jpg"
+                src="/assets/spring-impact-logo.png"
                 alt="Spring Impact Adacemy"
                 className="academy-logo"
                 />
@@ -218,7 +218,7 @@ function App() {
         <div className="container footer-main">
           <a className="brand footer-brand" href="#home">
             <img
-                src="/assets/spring-impact-logo.jpg"
+                src="/assets/spring-impact-logo.png"
                 alt="Spring Impact Adacemy"
                 className="academy-logo"
             />
